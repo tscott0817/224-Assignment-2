@@ -3,7 +3,7 @@
 public class Main {
   public static void main(String args[]) {
     testOne();
-//  testTwo();
+    testTwo();
   }
 
   public static void testOne() {
